@@ -1,6 +1,8 @@
 # 🔐 -  Username Creator 
 Python application that creates a username with the user's input and then verifies a password within certain criteria.
 
+![user-login](https://user-images.githubusercontent.com/66695865/214926579-a78b31c1-0658-4baf-9719-7fcebad33346.png)
+
 ## 💻 Built with
 <li>Python</li>
 
